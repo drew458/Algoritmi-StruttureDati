@@ -1,0 +1,6 @@
+htable* crea_tabella()
+void aggiungi_elemento(htable* t, nodo* key, int i)
+void rimuovi_elemento(htable* t, nodo* key)
+int contiene_chiave(htable* t, nodo* key)
+int trova_valore(htable* t, nodo* key)
+void distruggi_tabella(htable * t)

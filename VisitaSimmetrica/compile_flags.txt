@@ -1,0 +1,3 @@
+-IC:\Users\Fabio\Documents\Algoritmi&StruttureDati\VisitaSimmetrica
+-target
+i686-pc-windows-gnu
