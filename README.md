@@ -1,3 +1,3 @@
-# Algoritmi-StruttureDati
+# Algorithms and Data Structures
 
-Excercises and Examples for the Algorithm class at Roma Tre University.
+Excercises and Examples for the Algorithms and Data Structures course at university.
